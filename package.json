@@ -1,0 +1,19 @@
+{
+  "name": "test-node-gym-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chri-B/test-node-gym-app.git"
+  },
+  "author": "Chri-B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chri-B/test-node-gym-app/issues"
+  },
+  "homepage": "https://github.com/Chri-B/test-node-gym-app#readme"
+}
